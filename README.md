@@ -1,5 +1,5 @@
 # 💫 About Me:
- Manual testing and Selenium automation (Java, TestNG) for the Non-RT-RIC telecom platform.<br>QA projects involving manual and automation testing, testing frameworks, and process improvements.<br>Advanced automation strategies and CI/CD pipeline integrations.<br> End-to-end test automation, advanced TestNG features, and CI/CD best practices.<br> Manual testing, regression testing, test planning, JIRA defect management, SQL, Linux, and Selenium automation.<br> Recognized with the WOW Award at Capgemini for contributions to Non-RT-RIC testing and customer demos.
+ Manual testing and Selenium automation (Robot Framework) for the Non-RT-RIC telecom platform.<br>QA projects involving manual and automation testing, testing frameworks, and process improvements.<br>Advanced automation strategies and CI/CD pipeline integrations.<br> End-to-end test automation, advanced TestNG features, and CI/CD best practices.<br> Manual testing, regression testing, test planning, JIRA defect management, SQL, Linux, and Robot Framework automation.<br> Recognized with the 2x WOW Award at Capgemini for contributions to Non-RT-RIC testing and customer demos.
 
 
 ## 🌐 Socials:
